@@ -1,4 +1,4 @@
-*Outline for How-to Article on Creating Data Pipelines for Public Sector Decision Making*
+***Outline for How-to Article on Creating Data Pipelines for Public Sector Decision Making***
 
 **Introduction**
 
