@@ -1,0 +1,3 @@
+**Dental Care Geographic Availability**
+
+[What's currently there:]{.underline} Dental care availability based on 2-step enhanced floating catchment areas. This method is an aggregation of dentists per population ratios weighted by distance or travel time in each catchment area (area within which a provider is accessible). Weights are defined for the demand for dentists (population served by dentists). Provider address data were collected from WebMD's online Physician Directory.
