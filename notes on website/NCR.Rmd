@@ -1,0 +1,50 @@
+***All Citations are in APA***
+
+**Dental Care Geographic Availability**
+
+[What's Missing/ What I don't know:]{.underline}
+
+[Measure Description:]{.underline}
+
+-   Define the Actual Measure
+
+    -   Dental care availability based on 2-step floating enhanced floating catchment areas
+
+-   Purpose of the Measure
+
+    -   This measure is an accumulation of dentists per population rations weighted by distance or travel time in each catchment area (area within which a provider is accessible). Weights are defined by the demand for dentists (population served by dentists). Provider address data was collected from WebMD's online Physician Directory.
+
+[Data Sources:]{.underline}
+
+-   Main Source
+
+    -   [WebMD Physician Directory](https://doctor.webmd.com/)
+
+        -   WebMD. (2024). *Find doctors near you: Top physician directory*. WebMD. <https://doctor.webmd.com/>
+
+-   Other References
+
+    -   [Using a GIS-Based Floating Catchment Method to Assess Areas with Shortage of Physicians](https://doi.org/10.1016/S1353-8292(02)00067-9)
+
+        -   Lou, W. (2004). Using a gis-based floating catchment method to assess areas with shortage of physicians.Health & Place, 10, 1-11. doi: [10.1016/S1353-8292(02)00067-9](https://doi.org/10.1016/S1353-8292(02)00067-9)
+
+    -   [An enhanced two-step floating catchment area (E2SFCA) method for measuring spatial accessibility to primary care physicians](https://doi.org/10.1016/j.healthplace.2009.06.002)
+
+        -   Lou, W. & Qi, Y. (2009). An enhanced two-step floating catchment area (e2sfca) method for measuring spatial accessibility to primary care physicians.Health & Place, 15, 1100-1107. doi: [10.1016/j.healthplace.2009.06.002](https://doi.org/10.1016/j.healthplace.2009.06.002)
+
+    -   [Measures of Spatial Accessibility to Health Care in a GIS Environment: Synthesis and a Case Study in the Chicago Region](https://doi.org/10.1068/b2912)
+
+        -   Lou, W. & Wang, F. (2003). Measures of spatial accessibility to health care in a gis environment: synthesis and a case study in the Chicago region.Environment and Planning B: Planning and Design, 30, 865-884. doi: [10.1068/b29120](https://doi.org/10.1068/b29120)
+
+    -   [An Open Software Environment to Make Spatial Access Metrics More Accessible](10.13140/RG.2.2.12396.28807)
+
+        -   Saxon, J., Koschinsky, J., Acosta, K., Anguiano, V., Anselin, L., & Rey, S. (2020). An Open Software Environment to Make Spatial Access Metrics More Accessible.University of Chicago: Center for Spatial Data Science, Preprint. doi: [10.13140/RG.2.2.12396.28807](https://doi.org/10.13140/RG.2.2.12396.28807)
+
+[Links:]{.underline}
+
+-   Links to download the data seem to work and be accurate
+
+    -   Path
+        -    uva-bi-sdad**/**sdc.health/Health Care Services/Dentists/Service Catchment Scores/data/distribution
+
+-   
